@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "992000501789",
+    "project_id": "evernote-210d7",
+    "storage_bucket": "evernote-210d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992000501789:android:246533b5142ecce0173ef4",
+        "android_client_info": {
+          "package_name": "com.example.evernote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992000501789-al3rgdv49fmbrnrh7c50hhf3ghnc3vvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNCz6y_OnPiYNwmBk1T4Rm33yK7QUSFBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992000501789-al3rgdv49fmbrnrh7c50hhf3ghnc3vvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
